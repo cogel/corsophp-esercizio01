@@ -13,6 +13,6 @@ Modificare il file index.php per stampare tutte le facce in web/img/people,
 aggiungendo elementi all'array di esempio e ciclando su di esso con foreach.
 
 ### Risorse
-* [http://www.w3schools.com/tags/tag_img.asp]
-* [http://php.net/manual/en/control-structures.foreach.php]
-* [http://php.net/manual/en/language.types.array.php]
+* [Il tag img](http://www.w3schools.com/tags/tag_img.asp)
+* [Il ciclo foreach](http://php.net/manual/en/control-structures.foreach.php)
+* [Array in PHP](http://php.net/manual/en/language.types.array.php)
