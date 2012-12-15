@@ -16,3 +16,6 @@ aggiungendo elementi all'array di esempio e ciclando su di esso con foreach.
 * [Il tag img](http://www.w3schools.com/tags/tag_img.asp)
 * [Il ciclo foreach](http://php.net/manual/en/control-structures.foreach.php)
 * [Array in PHP](http://php.net/manual/en/language.types.array.php)
+
+## Come iniziare
+Cliccate su Fork (eventualmente Fork on Windows) e iniziate a lavorare sulla vostra copia.
